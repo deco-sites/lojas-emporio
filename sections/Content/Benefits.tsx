@@ -90,7 +90,7 @@ export default function Benefits(
           </div>
           <p
             class={`text-sm leading-5 ${
-              reverse ? "text-base-100" : "text-neutral"
+              reverse ? "text-base-100" : ""
             } ${benefitLayout == "piledup" ? "hidden lg:block" : ""}`}
           >
             {benefit.description}

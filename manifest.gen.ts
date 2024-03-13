@@ -97,8 +97,10 @@ const manifest = {
     "deco-sites/lojas-emporio/sections/Images/ShoppableBanner.tsx": $$$$$$28,
     "deco-sites/lojas-emporio/sections/Links/LinkTree.tsx": $$$$$$29,
     "deco-sites/lojas-emporio/sections/Links/Shortcuts.tsx": $$$$$$30,
-    "deco-sites/lojas-emporio/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$31,
-    "deco-sites/lojas-emporio/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
+    "deco-sites/lojas-emporio/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$31,
+    "deco-sites/lojas-emporio/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$32,
     "deco-sites/lojas-emporio/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/lojas-emporio/sections/Newsletter/Newsletter.tsx": $$$$$$34,
     "deco-sites/lojas-emporio/sections/Product/ImageGalleryFrontBack.tsx":
@@ -107,7 +109,8 @@ const manifest = {
     "deco-sites/lojas-emporio/sections/Product/NotFoundChallenge.tsx": $$$$$$37,
     "deco-sites/lojas-emporio/sections/Product/ProductDetails.tsx": $$$$$$38,
     "deco-sites/lojas-emporio/sections/Product/ProductShelf.tsx": $$$$$$39,
-    "deco-sites/lojas-emporio/sections/Product/ProductShelfTabbed.tsx": $$$$$$40,
+    "deco-sites/lojas-emporio/sections/Product/ProductShelfTabbed.tsx":
+      $$$$$$40,
     "deco-sites/lojas-emporio/sections/Product/SearchResult.tsx": $$$$$$41,
     "deco-sites/lojas-emporio/sections/Product/ShelfWithImage.tsx": $$$$$$42,
     "deco-sites/lojas-emporio/sections/Product/Wishlist.tsx": $$$$$$43,
